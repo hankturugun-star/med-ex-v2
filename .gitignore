@@ -1,0 +1,21 @@
+# data & model weights — never commit these
+data/
+slake/
+*.zip
+*.safetensors
+*.bin
+checkpoints/
+outputs/
+
+# python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# node (for later)
+node_modules/
+.next/
+
+# secrets
+.env
+.env.*
