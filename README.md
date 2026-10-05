@@ -18,3 +18,5 @@ Medical visual question answering with visual grounding: upload a radiology imag
 SLAKE (Liu et al., ISBI 2021) — CC BY / CC BY-SA 4.0. Not redistributed here; downloaded at runtime.
 
 > Not for clinical use.
+
+**Step 1 done:** 1,061 English test questions; 125 (11.8%) can be grounding-scored.
